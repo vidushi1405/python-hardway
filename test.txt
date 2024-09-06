@@ -1,3 +1,3 @@
-line1:mary had a little lamb
-line2:its fleece was white as snow
-line3:it was also tasty
+mary had a little lamb
+its fleece was white as snow
+it was also tasty
